@@ -1,0 +1,19 @@
+.NotFound a {
+    padding: 15px;
+    max-width: 100px;
+  }
+  
+  .Links a {
+    color: #0069d9;
+    display: inline;
+    padding: 1rem;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 0.25rem;
+    text-decoration:dotted;
+  }
+  
+  .Links a:hover {
+    color: white;
+    font-size: 1.5rem;
+  }
